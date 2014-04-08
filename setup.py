@@ -11,7 +11,7 @@ DESCRIPTION = open(
 
 setup(
     name='httmock',
-    version='1.2.1',
+    version='1.2.2-ds-0.1',
     description='A mocking library for requests.',
     author='Patryk Zawadzki',
     author_email='patrys@room-303.com',
