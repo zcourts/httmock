@@ -10,7 +10,7 @@ DESCRIPTION = open(
     os.path.join(os.path.dirname(__file__), 'README.md')).read().strip()
 
 setup(
-    name='httmock',
+    name='ds-httmock',
     version='1.2.2-ds-0.2',
     description='A mocking library for requests.',
     author='Patryk Zawadzki',
